@@ -1,6 +1,6 @@
 {
   "name": "my-appp",
-  "proxy": "https://tareq-bestfit-shop.onrender.com",
+  "proxy": "https://tareq-backend-bestfit.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
